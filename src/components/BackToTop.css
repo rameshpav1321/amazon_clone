@@ -1,0 +1,14 @@
+.scroll-to-top {
+  cursor: pointer;
+}
+
+.back-top-container {
+  height: 40px;
+  width: 100vw;
+  background-color: #37475a;
+  color: white;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
