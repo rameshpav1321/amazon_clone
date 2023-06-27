@@ -1,6 +1,24 @@
-Amazon Shopping clone
+# Amazon Clone
 
-- Created a clone of the Amazon shopping website that handles user authentication and cart management.</br>
-- Tech stack used for this app include ReactJS, NodeJS, Redux and firebase.
+• Created an Amazon clone website with features such as user sign-up/sign-in, product pages and shopping cart.
 
-Link to access website hosted on firebase: https://project--clone-31693.web.app
+• User account creation and authentication are implemented using Google Firebase Authentication and deployed the application to Firebase Hosting service.
+
+## Project link:
+
+https://project--clone-31693.web.app
+
+![My Image](screenshots/home.png)
+![My Image](screenshots/product.png)
+![My Image](screenshots/cart.png)
+
+## Technologies used:
+
+1. ReactJS
+2. Firebase
+3. Redux
+
+## Steps to run:
+
+1. Clone the repository.
+2. cd src && && npm install && npm run start.
